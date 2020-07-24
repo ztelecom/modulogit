@@ -1,1 +1,1 @@
-Meu primrito sistema no GIT (Novo e ealterado)
+Meu primeiro GIT no GIT HUB
